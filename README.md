@@ -43,6 +43,8 @@ There are a few ways that you can directly influence the growth of this project,
 
 > Share [thekippurian](https://thekippurian.wordpress.com/) where and when you can! And don't be afraid to star the github repository itself, to get it more views! Sharing is caring, so feel free to share [The Kippurian](https://github.com/rimij405/TheKippurian) repository. Become a contributor and raise awareness!
 
+While you're here, [please remember to check out the wiki!](https://github.com/rimij405/TheKippurian/wiki). Also, here's our [feedback form](http://goo.gl/forms/RqlllGWWPe)!
+
 ## This is all a waste of time! You'll never get anything done!
 
 Time is just a waste, if it is spent meaninglessly daydreaming. Rather than daydream and do nothing with that wasted effort, I wish to add to this project in anyway I can. And I'll work as hard as I can for as long as possible until I'm satisfied with the end result. This isn't a summer project I am starting and tossing away - *it's an investment.* 
