@@ -1,6 +1,6 @@
-### TheKippurian
+# TheKippurian
 
-# *The plan for a sci-fi adventure.*
+## *The plan for a sci-fi adventure.*
 
 The Kippurian is a working title that formed, oh, well, I don't know, yesterday.
 Now, every good thing has to start from somewhere - and when you're starting from scratch, that essentially means nowhere.
@@ -9,11 +9,11 @@ Let's not let that stop us.
 
 I'm approaching the public medium github presents for this project because I can share my ideas, publicly, and update them as I need. Down the line this aims to become a repository for resources that will be dedicated toward the project. And, as it is public, feel free to build off of all the resources compiled here - over time I hope to have a collection of materials that will really extend beyond this singular project.
 
-# What is Kippur all about?
+## What is Kippur all about?
 
 Kippur was the name of the planet on which this first story takes place on. (KPR-452b to be exact.) That is to say, Kippur is just something I came up with. The Kippurian is a lens to view that dream, one that I hope to carefully craft. I aim to create the equivalent of a universe, but, a carefully curated one. If the first game, novel, or story is the art, this shall be its art house; this shall stand as a gallery bearing all that this particular creation may have to bear. And like its denizens, The Kippurian hopes to be a constantly evolving piece of work.
 
-# Why Github?
+## Why Github?
 
 While any cooperation platform would work, starting out with github would streamline the process when it boils down to the programmatic end of the experience. Getting a game plan down of everything that is necessary is what must come first. That plan will act as a roadmap, and, while there might be bumps every few miles, I won't fall off that path to success - as long as I keep the map in sight of course!
 
@@ -21,7 +21,7 @@ I'm also hoping to crowdsource ideas from anyone who's willing to add to this pr
 
 *To those of you unclear as to the ways of github, I implore you to introduce yourself to the site -* [*it's not scary if you take the time to read up on what this place can do!*](https://github.com/features)
 
-# How can you help?
+## How can you help?
 
 A little help can go a long ways! Now, before you run off, what this consists of **is not** a call for any type of financial funding. This isn't a charity. As it stands, all this is, is a blueprint. But anything can be improved, and, seeing as this is public, asking for help isn't too out of the picture.
 
@@ -43,7 +43,7 @@ There are a few ways that you can directly influence the growth of this project,
 
 > Share [thekippurian](https://thekippurian.wordpress.com/) where and when you can! And don't be afraid to star the github repository itself, to get it more views! Sharing is caring, so feel free to share [The Kippurian](https://github.com/rimij405/TheKippurian) repository. Become a contributor and raise awareness!
 
-# This is all a waste of time! You'll never get anything done!
+## This is all a waste of time! You'll never get anything done!
 
 Time is just a waste, if it is spent meaninglessly daydreaming. Rather than daydream and do nothing with that wasted effort, I wish to add to this project in anyway I can. And I'll work as hard as I can for as long as possible until I'm satisfied with the end result. This isn't a summer project I am starting and tossing away - *it's an investment.* 
 
