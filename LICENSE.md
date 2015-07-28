@@ -16,4 +16,4 @@ This repository exists under the following copyright:
       See the License for the specific language governing permissions and
       limitations under the License.
 
-The Apache License is also provided in the root repository directory under the name [AL v2.0]().
+The Apache License is also provided in the root repository directory under the name [AL v2.0](https://github.com/rimij405/TheKippurian/blob/master/AL%20v.2.0.md).
